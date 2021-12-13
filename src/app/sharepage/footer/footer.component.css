@@ -1,0 +1,21 @@
+.footer{
+    background-color: black;
+    padding: 20px 10px;
+    position:sticky;
+    top:100%;
+}
+a{
+    color: blanchedalmond;
+    text-decoration: none;
+    padding: 0 5px;
+}
+h2{
+    color: blanchedalmond;
+    font-size: 25px;
+}
+a:hover{
+    color:var(--primary-color);
+}
+i{
+    padding: 0 10px;
+}
